@@ -1,7 +1,19 @@
 body{
   padding-top: 50px;
 }
+h1{
+  text-align: center;
+}
 h2{
   padding-top: 50px;
   margin-top: -50px;
+  padding-bottom: 3%;
+  border-bottom: 2px solid whitesmoke;
+  text-align: center;
+}
+.dial{
+  background-color:whitesmoke;
+  padding-top:3%;
+  padding-bottom: 3%;
+
 }
